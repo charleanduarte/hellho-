@@ -1,1 +1,2 @@
-MUDANÇA DE HABITO
+aqui começo minha jornada com github
+obrigado
